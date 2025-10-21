@@ -1,14 +1,5 @@
 # DenseVideoCaptioning
 
-### Citation
-
-    @inproceedings{wang2018bidirectional,
-      title={Bidirectional Attentive Fusion with Context Gating for Dense Video Captioning},
-      author={Wang, Jingwen and Jiang, Wenhao and Ma, Lin and Liu, Wei and Xu, Yong},
-      booktitle={CVPR},
-      year={2018}
-    }
-
 ### Data Preparation
 
 Please download annotation data and C3D features from the website [ActivityNet Captions](https://cs.stanford.edu/people/ranjaykrishna/densevid/). The ActivityNet C3D features with stride of 64 frames (used in my paper) can be found in [https://drive.google.com/open?id=1UquwlUXibq-RERE8UO4_vSTf5IX67JhW](https://drive.google.com/open?id=1UquwlUXibq-RERE8UO4_vSTf5IX67JhW).
