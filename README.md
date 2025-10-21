@@ -1,9 +1,5 @@
 # DenseVideoCaptioning
 
-Tensorflow Implementation of the Paper [Bidirectional Attentive Fusion with Context Gating for Dense Video Captioning](https://arxiv.org/abs/1804.00100) by Jingwen Wang *et al.* in *CVPR* 2018.
-
-![alt text](method.png)
-
 ### Citation
 
     @inproceedings{wang2018bidirectional,
